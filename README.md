@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Favour! <br/>
+Project Management Professional</h1>
 
-<!--
-**Favour-Aza/Favour-Aza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Project Manager, Scrum Master specialist
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interesting Facts about me:
+
+- 🔭 Proficient in managing resources, coordinating teams, and maintaining business requirements. 
+- 🌱 I am a leader who is highly interested in collaboration and teamwork and Adept at communication and stakeholder engagement. 
+- 🤔 I’m open to job opportunities.
+- 💬 Ask me about subjects relating to Project Management.
+- 📫 How to reach me: [Email](mailto:alabiasaminafavour@gmail.com)
+- 😄 Pronouns: Her/She
+- ⚡ Fun fact: I love music.
+
+
+
+<h3 align="left">🌐 Connect with me:</h3>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discord.gg/M36NhHWN/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alabi-favour-a33a94140/)
+
+![](https://hit.yhype.me/github/profile?user_id=19863125)
+
